@@ -48,6 +48,8 @@ public class Car {
 		speed -= amount;
 	}
 	
+	
+	
 	/**
 	 * Displays the object as a string in the format
 	 * "Color: red, Speed: 100"
